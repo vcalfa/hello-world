@@ -11,9 +11,14 @@ Fix 5
 Fix 6
 Fix 7
 Fix 8
+<<<<<<< HEAD
 Branch
 sssss
 dededede
 ddd
 
 dd
+=======
+ssss
+ssssss
+>>>>>>> master
